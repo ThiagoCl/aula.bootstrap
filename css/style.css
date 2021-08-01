@@ -1,0 +1,28 @@
+body{
+    font: 20px Arial;
+}
+
+.navbar {
+    background-color: #3b3b3b;
+}
+
+.quem-somos{
+    background-color: #888888;
+    color: aliceblue;
+
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: #0f0f0f;
+    color: aliceblue;
+}
+
+.rodape{
+    background-color: black;
+    color: aliceblue;
+}
